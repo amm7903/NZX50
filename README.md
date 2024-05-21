@@ -23,6 +23,7 @@ data.
 6) K-Means Clustering
 7) For each month select assests based on the cluster and form a portfolio based on Efficient Frontier max sharpe ratio optimization
 8) Using PyPortfolioOpt and EfficientFrontier optimizer, to define a function to maximize the sharpe ratio
+9) Visualize the Portfolio Returns
 
 ## Python Environment and Packages used in the Notebook 
 * Python 3.12.2
