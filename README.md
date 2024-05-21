@@ -18,7 +18,11 @@ data.
 1) The start the project we have to have Python 3.12.2 in our Computer and install the necessary packages. I'm using a M1 Mac for this project.
 2) Download NZX50 Stocks File and Grab symbols from dataframe and convert into a list for YFinance
 3) Calculate Features and Technical indicators for each stock
-4) 
+4) Calculate Monthly Returns for different time horizons as features
+5) Download Fama-French Factors and Calculate Rolling Factor Betas
+6) K-Means Clustering
+7) For each month select assests based on the cluster and form a portfolio based on Efficient Frontier max sharpe ratio optimization
+8) Using PyPortfolioOpt and EfficientFrontier optimizer, to define a function to maximize the sharpe ratio
 
 ## Python Environment and Packages used in the Notebook 
 * Python 3.12.2
@@ -31,6 +35,7 @@ data.
 * datetime
 * yfinance 
 * pandas_ta
+* sklearn.cluster 
 * my_functions (Includes custom functions for calculating garman klass volatility, relative strength index, bollinger bands, Average true range, Moving average convergence/divergence)
 
 
