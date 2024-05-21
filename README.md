@@ -14,6 +14,20 @@ data in order to identify patterns, correlations, or anomalies in data. Unsuperv
 learning can help us gain insight on financial data without having labeled training
 data.
 
+## Structure of the Project
+
+## Python Environment and Packages used in the Notebook 
+* Python 3.12.2
+* from statsmodels.regression.rolling import RollingOLS
+* pandas_datareader.data 
+* matplotlib.pyplot 
+* statsmodels.api 
+* pandas 
+* numpy 
+* datetime
+* yfinance 
+* pandas_ta
+* my_functions (Includes custom functions for calculating garman klass volatility, relative strength index, bollinger bands, Average true range, Moving average convergence/divergence)
 
 
 
