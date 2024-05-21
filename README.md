@@ -1,4 +1,4 @@
-#Using Machine Learning on New Zealand Stocks 
+# Using Machine Learning on New Zealand Stocks 
 
 
 
