@@ -15,6 +15,10 @@ learning can help us gain insight on financial data without having labeled train
 data.
 
 ## Structure of the Project
+1) The start the project we have to have Python 3.12.2 in our Computer and install the necessary packages. I'm using a M1 Mac for this project.
+2) Download NZX50 Stocks File and Grab symbols from dataframe and convert into a list for YFinance
+3) Calculate Features and Technical indicators for each stock
+4) 
 
 ## Python Environment and Packages used in the Notebook 
 * Python 3.12.2
