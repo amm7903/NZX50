@@ -1,1 +1,4 @@
-# NZX50
+#Using Machine Learning on New Zealand Stocks 
+
+
+
